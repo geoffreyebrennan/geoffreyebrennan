@@ -1,5 +1,8 @@
 ## Hi there, I'm Geoff 👋
 
+I'm Geoffrey Brennan. Twenty years spent moving from industrial design through UX leadership into product management — now leading AI product strategy for manufacturing software at CloudNC. I use that range to make better calls on what to build, and to earn the trust of the engineers who have to build it.
+    
+
 <!--
 **geoffreyebrennan/geoffreyebrennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
